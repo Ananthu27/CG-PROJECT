@@ -1,0 +1,36 @@
+base 2
+start_and_goal 1
+wall 4
+wall_outline 3
+marker 8
+marker_outline 7
+
+// red 
+
+const float background[] = {0.8, 0.7, 0.7};
+const GLubyte base[3] = {255, 204, 188};
+const GLubyte start_and_goal[3] = {251, 233, 231};
+const GLubyte wall[3] = {255, 138, 101};
+const GLubyte wall_outline[3] = {255, 171, 145};
+const GLubyte marker[3] = {230, 74, 25};
+const GLubyte marker_outline[3] = {244, 81, 30};
+
+// blue 
+
+const float background[] = {0.7, 0.7, 0.8};
+const GLubyte base[3] = {197, 202, 233};
+const GLubyte start_and_goal[3] = {232, 234, 246};
+const GLubyte wall[3] = {121, 134, 203};
+const GLubyte wall_outline[3] = {159, 168, 218};
+const GLubyte marker[3] = {48, 63, 159};
+const GLubyte marker_outline[3] = {57, 73, 171};
+
+// green 
+
+const float background[] = {0.7, 0.8, 0.7};
+const GLubyte base[3] = {178, 223, 219};
+const GLubyte start_and_goal[3] = {224, 242, 241};
+const GLubyte wall[3] = {77, 182, 172};
+const GLubyte wall_outline[3] = {128, 203, 196};
+const GLubyte marker[3] = {0, 121, 107};
+const GLubyte marker_outline[3] = {0, 137, 123};
