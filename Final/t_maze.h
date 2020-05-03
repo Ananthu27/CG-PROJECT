@@ -1,6 +1,3 @@
-#include <iostream>
-#include <vector>
-#include <math.h>
 #include <ctime>
 #include "node_list.h"
 using namespace std;
